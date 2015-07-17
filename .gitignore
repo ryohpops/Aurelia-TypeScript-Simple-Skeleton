@@ -1,3 +1,7 @@
+### My Definition ###
+*.js
+*.js.map
+
 # Created by https://www.gitignore.io
 
 ### VisualStudio ###
