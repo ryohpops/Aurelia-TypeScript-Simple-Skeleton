@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aurelia-TypeScript-Simple-Skeleton", "Aurelia-TypeScript-Simple-Skeleton\Aurelia-TypeScript-Simple-Skeleton.csproj", "{0C91EEDD-27D9-4DF6-AF89-EB87DEA92705}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aurelia-TypeScript-Simple-Skeleton", "Aurelia-TypeScript-Simple-Skeleton\Aurelia-TypeScript-Simple-Skeleton.csproj", "{8737A7D7-BBB8-4228-B355-80B8E4FEAEE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0C91EEDD-27D9-4DF6-AF89-EB87DEA92705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0C91EEDD-27D9-4DF6-AF89-EB87DEA92705}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0C91EEDD-27D9-4DF6-AF89-EB87DEA92705}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0C91EEDD-27D9-4DF6-AF89-EB87DEA92705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8737A7D7-BBB8-4228-B355-80B8E4FEAEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8737A7D7-BBB8-4228-B355-80B8E4FEAEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8737A7D7-BBB8-4228-B355-80B8E4FEAEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8737A7D7-BBB8-4228-B355-80B8E4FEAEE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
